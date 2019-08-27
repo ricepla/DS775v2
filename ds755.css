@@ -1,0 +1,14 @@
+<style>
+    div#notebook-container    { width: 95%; }
+    div#menubar-container     { width: 65%; }
+    div#maintoolbar-container { width: 99%; }
+</style>
+
+<style>
+ th{font-size:14px}
+ td{font-size:14px}
+.tleft td{text-align:left;}
+.tleft th{text-align:left;}
+.tbrdtop td{border-top: thin solid;}
+.tc td{text-align:center;}
+</style>
