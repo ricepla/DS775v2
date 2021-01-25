@@ -1,0 +1,5 @@
+{"backend_state":"init","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"8a5c03","input":"","pos":1,"type":"cell"}
+{"cell_type":"markdown","id":"af6e63","input":"## Project 3 Presentation - Scheduling and Decision Analysis with Uncertainty\n\nFor the final project, we're going to combine concepts from Lesson 7 (Constraint Programming), Lesson 8 (Simulation), and Lesson 9 (Decision Analysis). We'll do this by revisiting the scheduling problem from Lesson 7. But, we're going to make it a little more true-to-life by acknowledging some of the uncertainty in our estimates, and using simulation to help us come up with better estimates. We'll use our estimated profits to construct a payoff table and make a decision about how to proceed with the building project.\n\nThere is no additional presentation for Project 3 since all of the material you need was covered in Lessons 7, 8, and 9.","pos":0,"type":"cell"}
+{"id":0,"time":1608054647774,"type":"user"}
+{"last_load":1608058705376,"type":"file"}
