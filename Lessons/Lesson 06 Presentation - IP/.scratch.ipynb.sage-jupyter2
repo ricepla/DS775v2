@@ -1,0 +1,4 @@
+{"backend_state":"running","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":81862656},"trust":true,"type":"settings"}
+{"end":1598982148759,"exec_count":1,"id":"e958e7","input":"import numpy as np\ncounts = np.array([18,18,19,20,18,17,18,16,17,19,14,14,16,15])\nnp.mean(counts)","kernel":"python3","output":{"0":{"data":{"text/plain":"17.071428571428573"},"exec_count":1}},"pos":0,"start":1598982148753,"state":"done","type":"cell"}
+{"id":"8ca00c","input":"","pos":1,"type":"cell"}
+{"last_load":1598982100734,"type":"file"}
